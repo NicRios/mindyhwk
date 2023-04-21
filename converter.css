@@ -7,7 +7,7 @@
 
   padding: 10%;
   display: flex;
-  overflow: scroll;
+  overflow: hidden;
   position: relative;
   align-items: flex-start;
   flex-shrink: 0;
