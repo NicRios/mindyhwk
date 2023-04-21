@@ -1,5 +1,6 @@
 .converter-container {
   min-height: 100vh;
+  padding: 20px;
 }
 .converter-converter {
   width: 100%;
