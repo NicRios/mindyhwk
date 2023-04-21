@@ -21,8 +21,8 @@
   border-color: transparent;
 }
 .converter-text {
-  top: 375px;
-  left: 477px;
+ /* top: 375px;
+  left: 477px; */
   color: rgba(253, 196, 118, 1);
   width: 670px;
   height: auto;
@@ -41,8 +41,8 @@
   text-decoration: none;
 }
 .converter-text2 {
-  top: 507px;
-  left: 439px;
+ /* top: 507px;
+  left: 439px; */
   color: rgba(255, 255, 255, 1);
   width: 643px;
   height: auto;
